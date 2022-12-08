@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.input {
+    padding: 10px;
+    text-align: center;
+}
+.title {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.gridContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+.switchesContaier{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.autoComplete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-top: 2px;
+}
+
+.serachResContainer{
+    border: 1px solid black;
+    width: 220px;
+    margin-right: 39px;
+    margin-top: -5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.singleSearchres {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.firstAutoComp{
+    border: 1px solid black;
+    width: 220px;
+    margin-right: 39px;
+    margin-top: -5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.searchContainer{
+    width: 100%;
+}
+.defaultLocationCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-right: 35px;
+}
+
+
+
