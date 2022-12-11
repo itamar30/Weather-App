@@ -1,19 +1,19 @@
 {
-  "main.css": "/itamar30.github.io/itamar-berti-04-12-2022/static/css/main.38a4874f.chunk.css",
-  "main.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/main.d4aa2077.chunk.js",
-  "main.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/main.d4aa2077.chunk.js.map",
-  "runtime~main.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/runtime~main.61b73d44.js",
-  "runtime~main.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/runtime~main.61b73d44.js.map",
-  "static/js/2.490adcdf.chunk.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/2.490adcdf.chunk.js",
-  "static/js/2.490adcdf.chunk.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/2.490adcdf.chunk.js.map",
-  "static/js/3.8f7a3e20.chunk.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/3.8f7a3e20.chunk.js",
-  "static/js/3.8f7a3e20.chunk.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/3.8f7a3e20.chunk.js.map",
-  "index.html": "/itamar30.github.io/itamar-berti-04-12-2022/index.html",
-  "precache-manifest.3bafd54b46e15afcac624c2cd746e3d1.js": "/itamar30.github.io/itamar-berti-04-12-2022/precache-manifest.3bafd54b46e15afcac624c2cd746e3d1.js",
-  "service-worker.js": "/itamar30.github.io/itamar-berti-04-12-2022/service-worker.js",
-  "static/css/main.38a4874f.chunk.css.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/css/main.38a4874f.chunk.css.map",
-  "static/media/15.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/15.39ac499c.png",
-  "static/media/16.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/16.0cf9cad1.png",
-  "static/media/17.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/17.3c85da3e.png",
-  "static/media/41.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/41.421c13f1.png"
+  "files": {
+    "main.css": "/itamar30.github.io/itamar-berti-04-12-2022/static/css/main.4f149d69.css",
+    "main.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/main.c2d55fcb.js",
+    "static/js/787.fb335323.chunk.js": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/787.fb335323.chunk.js",
+    "static/media/17.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/17.4b8d4543699af9743509.png",
+    "static/media/41.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/41.da8960711b2a7bdd80c0.png",
+    "static/media/16.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/16.02f6796a4b217cbdd262.png",
+    "static/media/15.png": "/itamar30.github.io/itamar-berti-04-12-2022/static/media/15.9aac7942a26db293440b.png",
+    "index.html": "/itamar30.github.io/itamar-berti-04-12-2022/index.html",
+    "main.4f149d69.css.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/css/main.4f149d69.css.map",
+    "main.c2d55fcb.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/main.c2d55fcb.js.map",
+    "787.fb335323.chunk.js.map": "/itamar30.github.io/itamar-berti-04-12-2022/static/js/787.fb335323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f149d69.css",
+    "static/js/main.c2d55fcb.js"
+  ]
 }

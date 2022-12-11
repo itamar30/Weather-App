@@ -3,7 +3,7 @@ import { Nav, NavLink, Bars, NavMenu } from "./NavbarElements";
 import { useSpring, animated } from "react-spring";
 import LottiAnimation from "../LottiAnimation";
 
-const sppringAnimation = () => {
+const SppringAnimation = () => {
   const styles = useSpring({
     loop: true,
     to: [
@@ -33,7 +33,7 @@ const Navbar = () => {
             height={120}
             width={120}
           />
-          <div style={{ margin: 10 }}>{sppringAnimation()}</div>
+          <div style={{ margin: 10 }}>{SppringAnimation()}</div>
           <LottiAnimation
             animationData={require("../../animations/sun2.json")}
             height={90}
