@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/f4e4134b-7d4c-4c73-8d42-a4061ed2109c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/abratask",
+  "appService.deploySubpath": "."
+}
